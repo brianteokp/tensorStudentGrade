@@ -1,0 +1,11 @@
+Linear Regression to predict final grade of student based on
+G1 - first period grade
+G2 - second period grade
+studytime - weekly study time
+failures - number of past class failures
+absences - number of school absences
+
+Data measured student achievement in secondary education Mathematics in two Portugese schools
+
+Data courtesy of: 
+P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
